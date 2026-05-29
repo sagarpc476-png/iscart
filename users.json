@@ -1,0 +1,42 @@
+{
+    "8406158643": {
+        "credits": 41,
+        "verified": true,
+        "premium": false,
+        "total_scripts": 0,
+        "referred_by": null,
+        "referrals": [],
+        "name": "Crazy",
+        "username": "Crazyoffical8"
+    },
+    "5908330532": {
+        "credits": 10,
+        "verified": true,
+        "premium": false,
+        "total_scripts": 1,
+        "referred_by": null,
+        "referrals": []
+    },
+    "6922076209": {
+        "credits": 43,
+        "verified": true
+    },
+    "7787253473": {
+        "credits": 152,
+        "verified": true,
+        "premium": false,
+        "total_scripts": 3,
+        "referred_by": null,
+        "referrals": [
+            "7388858422"
+        ]
+    },
+    "7388858422": {
+        "credits": 5,
+        "verified": true,
+        "premium": false,
+        "total_scripts": 1,
+        "referred_by": "7787253473",
+        "referrals": []
+    }
+}
